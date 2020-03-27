@@ -1,3 +1,3 @@
 # OfferSolution
  剑指Offer题解
-[查看详情](http://www.zxbuyan.com/)
+[查看详情](http://www.zxbuyan.com/articles/detail/47)
